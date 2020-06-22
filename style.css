@@ -1,0 +1,176 @@
+body{
+    background-color:#f7f7f7;
+    text-align: center;
+
+}
+
+.navbar 
+{
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+   
+    
+}
+
+#navlink{
+width: 27px;
+height: auto;
+}
+
+#navname{
+    font-family: 'Syncopate', sans-serif;
+    font-weight: 700;
+}
+#navjob{
+    font-family: 'Syncopate', sans-serif;
+}
+
+#front{
+    margin-top: 130px;
+}
+
+#name{
+    font-family: 'VT323', monospace;
+    font-size: 100px;
+}
+
+#job{
+    font-family: 'VT323', monospace;
+    font-size: 50px;
+}
+
+#direction{
+    font-family: 'VT323', monospace;
+}
+
+#arrow {
+    width: 20px;
+    height: auto;
+}
+#phone{
+   font-family: 'Julius Sans One', sans-serif;
+}
+#email{
+   font-family: 'Julius Sans One', sans-serif;
+   color: black;
+   text-decoration: none;
+}
+#email:hover{
+    color: rgb(255, 14, 14);
+}
+@media only screen and (max-width: 600px) {
+    #name{
+        font-family: 'VT323', monospace;
+        font-size: 80px;
+    }
+}
+
+#who{
+    margin-top: 230px;
+}
+
+#selfpic{
+    width: 300px;
+    height: auto;
+    border-radius: 5px;
+    -webkit-box-shadow: 10px 10px 40px 0px rgba(0,0,0,0.45);
+    -moz-box-shadow: 10px 10px 40px 0px rgba(0,0,0,0.45);
+    box-shadow: 10px 10px 40px 0px rgba(0,0,0,0.45);
+}
+#firsthr{
+    border-top: 2px solid rgb(0, 0, 0);
+    width: 80vw;
+}
+#title{
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+#brand{
+    margin-top: 40px;
+    padding: 0px 40px;
+    font-family: 'Julius Sans One', sans-serif;
+    text-align: justify;
+    letter-spacing: 3px;
+    line-height: 1.5
+    
+}
+
+#skills{
+    float: left;
+    padding-left: 30px;
+}
+
+
+#methodologies{
+    float: left;
+    padding-left: 30px;
+
+}
+#methlist{
+    padding-top: 100px;
+    
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.grid-container {
+    justify-content: center;
+    margin-right: 215px;
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto ;
+    padding: 10px;
+    
+  }
+  .grid-item {
+    margin-right: 200px;
+    margin-left: 200px;
+    background-color: rgba(199, 199, 199, 0.8);
+    padding: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+  }
+
+
+.grid-containertttttttttt {
+    justify-content: center;
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: auto auto  ;
+    padding: 10px;
+    
+  }
+  .grid-itemttt {
+    margin-right: 200px;
+    margin-left: 200px;
+    background-color: rgba(199, 199, 199, 0.8);
+    padding: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+  }
+  
+
+button{
+    margin-top: 70px;
+}
+
+#project{
+    margin-top: 180px;
+}
+
+#projpic{
+    width: 500px;
+    height: auto;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 4px;
+}
+
+#projd{
+    margin-top: 40px;
+}
