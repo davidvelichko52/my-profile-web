@@ -12,7 +12,9 @@ body{
     
 }
 
-
+#navbarNav{
+    background-color: rgb(255, 255, 255);
+}
 
 #navlink{
 width: 27px;
@@ -37,7 +39,11 @@ height: auto;
 #front{
     margin-top: 130px;
 }
-
+.btn-group{
+    display:         flex;
+    flex-wrap:       wrap;
+    justify-content: center;
+}
 #name{
     font-family: 'VT323', monospace;
     font-size: 100px;
@@ -58,6 +64,7 @@ height: auto;
     height: auto;
 }
 #phone{
+    margin-top: 20px;
    font-family: 'Julius Sans One', sans-serif;
 }
 #email{
