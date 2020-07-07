@@ -177,6 +177,7 @@ height: auto;
 
 #titleproj{
     font-family: 'Julius Sans One', sans-serif;
+    text-align: center;
 }
 
 #project{
@@ -200,11 +201,13 @@ height: auto;
     margin-left: 30px;
     margin-right: 30px;
     font-family: 'Julius Sans One', sans-serif;
+    text-align: center;
 
 }
 #techdesc{
     margin-top: 50px;
     font-family: 'Julius Sans One', sans-serif;
+    text-align: center;
 
 }
 
@@ -237,4 +240,8 @@ height: auto;
 }
 #projlink:hover{
     color: rgb(138, 62, 49);
+}
+
+#buttonbot{
+    text-align: center;
 }
