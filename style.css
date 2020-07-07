@@ -111,7 +111,7 @@ height: auto;
 }
 
 #skills{
-    float: left;
+    
     padding-left: 30px;
    font-family: 'Julius Sans One', sans-serif;
 }
@@ -136,7 +136,6 @@ height: auto;
 
 .grid-container {
     justify-content: center;
-    margin-right: 215px;
     margin-top: 100px;
     display: grid;
     grid-template-columns: auto auto auto auto auto ;
@@ -230,11 +229,12 @@ height: auto;
 }
 
 #projlink{
-    color: black;
+    color: rgb(66, 127, 184);
     text-decoration: none;
-    font-family: 'Julius Sans One', sans-serif;
+    font-family: 'Montserrat Subrayada', sans-serif;
+
 
 }
 #projlink:hover{
-    color: rgb(255, 14, 14);
+    color: rgb(138, 62, 49);
 }
