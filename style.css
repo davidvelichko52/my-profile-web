@@ -185,10 +185,11 @@ height: auto;
 }
 
 #projpic{
-    width: 500px;
+    width: 60%;
     height: auto;
     border: 2px solid rgb(0, 0, 0);
     border-radius: 4px;
+    
 }
 
 #projd{
