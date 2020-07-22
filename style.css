@@ -9,7 +9,8 @@ body{
     position: fixed;
     top: 0;
     width: 100%;
-    
+    background-color: rgb(88, 134, 177);
+    height: 79px;
 }
 
 
