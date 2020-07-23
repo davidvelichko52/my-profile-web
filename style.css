@@ -10,7 +10,7 @@ body{
     top: 0;
     width: 100%;
     background-color: rgb(88, 134, 177);
-    height: 79px;
+    height: 88px;
 }
 
 
@@ -18,6 +18,8 @@ body{
 #navlink{
 width: 27px;
 height: auto;
+
+
 }
 
 #navname{
